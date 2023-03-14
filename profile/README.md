@@ -3,7 +3,7 @@
 
 
 
-## 앱 (Android & Ios)
+## App (Android & Ios)
 ### SNS 로그인 기능
 <p>
   <img width="24.5%" src="https://user-images.githubusercontent.com/48207131/225067944-cab672f0-a253-4af5-ac4e-24f276ad84ee.png" />
@@ -40,5 +40,24 @@
   <img width="33%" src="https://user-images.githubusercontent.com/48207131/225072437-81591350-f55a-41ff-a1d0-012895a46008.png" />
 </p>
 
+## Seller (판매자 어드민)
+### 대시보드
+<img src="https://user-images.githubusercontent.com/48207131/225072980-6ead1caf-f98f-453e-ae48-de386ea07131.png">
 
+### 주문관리
+<img src="https://user-images.githubusercontent.com/48207131/225073008-3ce8a7fc-f999-4d1b-bbfb-aa5d54eb5f82.png">
+
+### 상점관리
+<img src="https://user-images.githubusercontent.com/48207131/225073018-5828d5eb-3e2e-43e5-a7b3-9e41bb950453.png">
+
+### 상품관리
+<img src="https://user-images.githubusercontent.com/48207131/225073037-b584a71e-a165-492e-94e9-5fb5e035b1c8.png">
+<img src="https://user-images.githubusercontent.com/48207131/225073055-4231fa1a-ca03-4628-bcc8-adcc38a7de3e.png">
+
+
+### 수익관리
+<img src="https://user-images.githubusercontent.com/48207131/225073071-07b47143-1110-4b6c-82fe-d7c305a00db3.png">
+
+
+## Admin (내부 어드민)
 
