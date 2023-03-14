@@ -2,6 +2,11 @@
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![NodeJs](https://img.shields.io/badge/Nodejs-222222?style=for-the-badge&logo=Node.js&logoColor=#339933)
+![NextJs](https://img.shields.io/badge/next.js-222222?style=for-the-badge&logo=next.js&logoColor=#000000)
+![Prisma](https://img.shields.io/badge/Prisma-222222?style=for-the-badge&logo=prisma&logoColor=#2D3748)
+![Mysql](https://img.shields.io/badge/mysql-222222?style=for-the-badge&logo=mysql&logoColor=#4479A1)
+![Docker](https://img.shields.io/badge/docker-222222?style=for-the-badge&logo=docker&logoColor=#2496ED)
+![GCP](https://img.shields.io/badge/gcp-222222?style=for-the-badge&logo=google-cloud&logoColor=#4285F4)
 
 <img src="https://user-images.githubusercontent.com/48207131/225075664-b9090370-a14e-477e-adea-45547c8a7fa5.png">
 
