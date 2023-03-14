@@ -3,7 +3,7 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![NodeJs](https://img.shields.io/badge/Nodejs-222222?style=for-the-badge&logo=Node.js&logoColor=#339933)
 
-![iPhone 12 Mockup](https://user-images.githubusercontent.com/48207131/225075193-1d58678e-2227-4440-b08a-f9b1e67edbe1.png)
+<img src="https://user-images.githubusercontent.com/48207131/225075664-b9090370-a14e-477e-adea-45547c8a7fa5.png">
 
 
 ## App (Android & Ios)
