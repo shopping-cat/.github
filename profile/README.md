@@ -6,7 +6,8 @@
 ## App (Android & Ios)
 
 <details>
-  <summary>이미지 캡쳐</summary>
+  <summary>화면 캡쳐</summary>
+  
   ### SNS 로그인 기능
   <p>
     <img width="24.5%" src="https://user-images.githubusercontent.com/48207131/225067944-cab672f0-a253-4af5-ac4e-24f276ad84ee.png" />
@@ -45,23 +46,41 @@
 </details>
 
 ## Seller (판매자 어드민)
-### 대시보드
-<img src="https://user-images.githubusercontent.com/48207131/225072980-6ead1caf-f98f-453e-ae48-de386ea07131.png">
 
-### 주문관리
-<img src="https://user-images.githubusercontent.com/48207131/225073008-3ce8a7fc-f999-4d1b-bbfb-aa5d54eb5f82.png">
+<details>
+  <summary>화면 캡쳐</summary>
 
-### 상점관리
-<img src="https://user-images.githubusercontent.com/48207131/225073018-5828d5eb-3e2e-43e5-a7b3-9e41bb950453.png">
+  ### 대시보드
+  <img src="https://user-images.githubusercontent.com/48207131/225072980-6ead1caf-f98f-453e-ae48-de386ea07131.png">
 
-### 상품관리
-<img src="https://user-images.githubusercontent.com/48207131/225073037-b584a71e-a165-492e-94e9-5fb5e035b1c8.png">
-<img src="https://user-images.githubusercontent.com/48207131/225073055-4231fa1a-ca03-4628-bcc8-adcc38a7de3e.png">
+  ### 주문관리
+  <img src="https://user-images.githubusercontent.com/48207131/225073008-3ce8a7fc-f999-4d1b-bbfb-aa5d54eb5f82.png">
 
+  ### 상점관리
+  <img src="https://user-images.githubusercontent.com/48207131/225073018-5828d5eb-3e2e-43e5-a7b3-9e41bb950453.png">
 
-### 수익관리
-<img src="https://user-images.githubusercontent.com/48207131/225073071-07b47143-1110-4b6c-82fe-d7c305a00db3.png">
+  ### 상품관리
+  <img src="https://user-images.githubusercontent.com/48207131/225073037-b584a71e-a165-492e-94e9-5fb5e035b1c8.png">
+  <img src="https://user-images.githubusercontent.com/48207131/225073055-4231fa1a-ca03-4628-bcc8-adcc38a7de3e.png">
 
+  ### 수익관리
+  <img src="https://user-images.githubusercontent.com/48207131/225073071-07b47143-1110-4b6c-82fe-d7c305a00db3.png">
+</details>
 
 ## Admin (내부 어드민)
+
+<details>
+  <summary>화면 캡쳐</summary>
+
+  ### 입점사 관리
+  <img src="https://user-images.githubusercontent.com/48207131/225074381-aa52d80e-1d91-41aa-baaf-0e7cdf84de6c.png">
+  <img src="https://user-images.githubusercontent.com/48207131/225074395-bf5c7878-ed97-4587-aff7-6df54d461b7c.png">
+
+  ### 상품관리
+  <img src="https://user-images.githubusercontent.com/48207131/225074412-5ae136ef-fa65-42be-9f73-6508e0f5dd64.png">
+  <img src="https://user-images.githubusercontent.com/48207131/225074428-04e541b0-a01a-4ab9-9287-3008daee2f81.png">
+
+  ### 주문관리
+  <img src="https://user-images.githubusercontent.com/48207131/225074441-ddfe24b8-b07f-48ec-8798-48fea257ec4d.png">
+</details>
 
