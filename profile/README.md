@@ -1,6 +1,9 @@
-# 쇼핑냥이
-> 오직 집사들을 위한 고양이 쇼핑몰
+![Typescript](https://img.shields.io/badge/Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=#3178C6)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![NodeJs](https://img.shields.io/badge/Nodejs-222222?style=for-the-badge&logo=Node.js&logoColor=#339933)
 
+![iPhone 12 Mockup](https://user-images.githubusercontent.com/48207131/225075193-1d58678e-2227-4440-b08a-f9b1e67edbe1.png)
 
 
 ## App (Android & Ios)
