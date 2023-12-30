@@ -14,7 +14,7 @@
 ## App (Android & Ios)
 
 <details>
-  <summary>화면 캡쳐</summary>
+  <summary>⭐️ 화면 캡쳐 (클릭) ⭐️</summary>
   
   ### SNS 로그인 기능
   <p>
@@ -56,7 +56,7 @@
 ## Seller (판매자 어드민)
 
 <details>
-  <summary>화면 캡쳐</summary>
+  <summary>⭐️ 화면 캡쳐 (클릭) ⭐️</summary>
 
   ### 대시보드
   <img src="https://user-images.githubusercontent.com/48207131/225072980-6ead1caf-f98f-453e-ae48-de386ea07131.png">
@@ -78,7 +78,7 @@
 ## Admin (내부 어드민)
 
 <details>
-  <summary>화면 캡쳐</summary>
+  <summary>⭐️ 화면 캡쳐 (클릭) ⭐️</summary>
 
   ### 입점사 관리
   <img src="https://user-images.githubusercontent.com/48207131/225074381-aa52d80e-1d91-41aa-baaf-0e7cdf84de6c.png">
