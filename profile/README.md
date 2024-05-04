@@ -92,4 +92,4 @@
   <img src="https://user-images.githubusercontent.com/48207131/225074441-ddfe24b8-b07f-48ec-8798-48fea257ec4d.png">
 </details>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshopping-cat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshopping-cat&count_bg=%23B6B6B6&title_bg=%23787878&icon=&icon_color=%23E7E7E7&title=H&edge_flat=false)
